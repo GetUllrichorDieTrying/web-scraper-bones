@@ -5,7 +5,7 @@ const express = require('express');
 
 const app = express();
 
-const url = 'https://www.yelp.com/search?find_desc=restaurants&find_loc=Kirkland%2C+WA&ns=1';
+const url = ''; // ENTER URL IN STRING
 
 axios(url)
   .then(response => {
