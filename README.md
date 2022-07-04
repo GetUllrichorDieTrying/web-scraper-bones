@@ -1,1 +1,1 @@
-# JS-web-scraper
+# web-scraper-bones
